@@ -1,2 +1,2 @@
 # asc_script_base
-Android Script Creator scripts base [now beta]
+Android Script Creator scripts base
